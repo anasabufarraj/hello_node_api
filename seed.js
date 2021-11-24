@@ -39,8 +39,9 @@ const data = [
   {
     name: "Animation",
     movies: [
-      { title: "Bug's Life", numberInStock: 4, dailyRentalRate: 5.7 },
+      { title: "Bug's Life", numberInStock: 4, dailyRentalRate: 4 },
       { title: "The Lion King", numberInStock: 2, dailyRentalRate: 4.5 },
+      { title: "Luca", numberInStock: 3, dailyRentalRate: 3.5 },
     ],
   },
 ];
